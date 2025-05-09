@@ -1,0 +1,4 @@
+{
+    "input": "Il fait élire en juin 1848 dans trois départements. \nSes électeurs appartiennent aux nostalgiques de l'Empire (peu nombreux), défenseurs de l'ordre et de la propriété mais aussi aux laissés-pour-compte de la révolution industrielle, sensibles aux idées sociales du neveu de Napoléon le Grand. ",
+    "output": "Il se fait élire en juin 1848 dans trois départements. \nSes électeurs appartiennent aux nostalgiques de l'Empire (peu nombreux), aux défenseurs de l'ordre et de la propriété mais aussi aux laissés-pour-compte de la révolution industrielle, sensibles aux idées sociales du neveu de Napoléon le Grand. "
+}
